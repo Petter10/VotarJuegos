@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firestore-grafica-1bc3e": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-1bc3e"
+        ]
+      }
+    }
+  }
+}
